@@ -1,0 +1,3 @@
+*.got
+*node_packs
+!xxx.got
